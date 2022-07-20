@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter VB</string>
+    <string name="number_icon">simple vector asset representing counting</string>
+    <string name="placeholder_number">42</string>
+    <string name="input_hint">Choose a starting number</string>
+    <string name="textview">TextView</string>
+    <string name="button_text">Submit</string>
+    <string name="random_button_text">Submit a random starting number</string>
+    <string name="decrement_text">-</string>
+    <string name="increment_text">+</string>
+    <string name="placeholder_interval">1</string>
+    <string name="placeholder_summary">Your current operation will be displayed here</string>
+</resources>
